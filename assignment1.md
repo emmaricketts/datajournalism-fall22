@@ -24,7 +24,7 @@ The graphs showing *Weekly spending on TV ads in critical battlegrounds* were an
 
 * Was that the most efficient way to navigate the visualization?
 
-Scrolling through the article demonstrated how the visuals complemented the story and became increasingly specific on the way through (i.e. from weekly spending on a national level to weekly spending in particular media markets.
+Scrolling through the article demonstrated how the visuals complemented the story and became increasingly specific on the way through (i.e. from weekly spending on a national level to weekly spending in particular media markets.)
 
 * Can you suggest ways to improve navigation?
 
