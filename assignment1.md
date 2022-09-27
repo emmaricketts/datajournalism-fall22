@@ -20,7 +20,7 @@ The reporter was demonstrating how Biden was outspending Trump, often by a lot, 
 * If there was a data visualization, were you able to understand how to read it? Again, use a 5-point scale with 5 = excellent
 
 This piece had numerous data visualisations, and I was able to understand them all. However, some were easier than others. They ranged from 3 - 5 on a 5-point scale.
-The graphs showing *Weekly spending on TV ads in critical battlegrounds* are an example of an excellent visualation. They were easy to read at a glance, and shared information that complemented the story. The chart titled *Spending by media markets in each state*, on the other hand, was less effective. It was difficult to read and required some straining of the eyes to see which colour cirle was on the outside for each point on the visual.
+The graphs showing *Weekly spending on TV ads in critical battlegrounds* were an example of an excellent visualation. They were easy to read at a glance, and shared information that complemented the story. The chart titled *Spending by media markets in each state*, on the other hand, was less effective. It was difficult to read and required some straining of the eyes to see which colour circle was on the outside for each point on the visual.
 
 * Was that the most efficient way to navigate the visualization?
 
