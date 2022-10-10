@@ -40,12 +40,3 @@ Strengths: CAT is an independent body of scientific analysis. It is funded by va
 
 Limitations: this dataset does not include all parties to the Paris Agreement, and does't have information for many of them.
 
-
-Other work done: https://unfccc.int/documents/306848 ; https://www.thenationalnews.com/opinion/comment/2022/10/07/with-a-month-left-before-cop27-is-the-middle-east-on-track-with-its-climate-goals/ ; https://www.europarl.europa.eu/news/pt/press-room/20221003IPR42119/meps-to-g20-increase-your-climate-change-targets-before-cop27 ; https://www.un.org/sg/en/content/dsg/statement/2022-10-03/deputy-secretary-generals-remarks-pre-cop27-discussions-prepared-for-delivery
-
-
-
-
-
-
-In addition to searching for other stories that have been done on this topic, please identify at least three high-quality datasets you could use in your story (you can change your mind on these later, but this is just to get you thinking about what's out there). For each, please write why the data source is trustworthy and what (if any) limitations it might have.
