@@ -32,11 +32,16 @@ I have identified the following data sets as a starting point.
 
 Strengths: The Institute for Global Environmental Strategies is a public-interest incorporated foundation, initially established under the Japanese government. It appears to be well-researched and resourced, and
 
-Limitation: this dataset is uodated unti October 2021. 29 parties have filed updates since then, according to the [NDC registry](https://unfccc.int/NDCREG), so it will take some work to ensure the data is correct for these countries.
+Limitation: this dataset is updated until October 2021. 29 parties have filed updates since then, according to the [NDC registry](https://unfccc.int/NDCREG), so it will take some work to ensure the data is correct for these countries.
 
-- [Climate Action Tracker net zero target evaluations](https://climateactiontracker.org/global/cat-net-zero-target-evaluations/) - this tracks identifies net zero targets in G20 counties, including their scope, legal status and review methods, etc.
+- *[Climate Action Tracker net zero target evaluations](https://climateactiontracker.org/global/cat-net-zero-target-evaluations/)* - this identifies net zero targets in G20 counties, including their scope, legal status and review methods, etc.
 
 Strengths: CAT is an independent body of scientific analysis. It is funded by various organisations and governments, and is relied upon widely. This data will be useful to compare actual national policies to the countries' NDCs. The data is up to date to 21 September 2022.
 
 Limitations: this dataset does not include all parties to the Paris Agreement, and does't have information for many of them.
 
+- *[NDC Explorer](https://klimalog.idos-research.de/ndc/#NDCExplorer/worldMap?NewAndUpdatedNDC??income???catIncome)* - raw data for first NDCs submitted by 2020, as well as new/updated NDCs.
+
+Strengths: from the German Development Institute, a well-respected, global think-tank. It is The [graphics](https://klimalog.idos-research.de/ndc/#NDCExplorer/worldMap?NewAndUpdatedNDC??climatechangemitigation???cat1) created by the producers of the data are useful to analyse and see what trends have been identified. This can be informative contextually, in a way that a spreadsheet of data may not be.
+
+Limitations: updated until February 2022. 17 parties have filed updates since then. Original NDCs and updated NDCs are not in the same spreadsheet.
