@@ -6,9 +6,9 @@
 
 My original intention - to research asset managers that have disclosed voluntary TCFD-aligned reports in advance of US SEC requirements - did not work out as there is a lack of data available. Instead, I have decided to have a look at countries' nationally determined contributions (NDCs).
 
-NDCs are a foundational aspect of the Paris Agreement. It works on a five-year cycle of increasingly ambitious climate action. Each Party must prepare a plan to reduce emissions and adapt to climate change, which are communicated to the UNFCCC by 2020 and every five years thereafter. Biennial progress reports are also required.
+NDCs are a foundational aspect of the Paris Agreement. It works on a five-year cycle of increasingly ambitious climate action. Each party must prepare a plan to reduce emissions and adapt to climate change, and communicate it to the UNFCCC by 2020 and every five years thereafter. Biennial progress reports are also required.
 
-With COP27 approaching in a month, NDCs show that the world is not on track to meet the Paris Agreement's goals. Based on many Parties' NDCs - and/or the fact many countries don't have policies that put them on track to meet them - we will not limit global temperature increase to well below 2 degrees Celsius, while pursuing efforts to limit the increase to 1.5 degrees.
+With COP27 approaching in a month, NDCs show that the world is not on track to meet the Paris Agreement's goals. Based on many parties' NDCs - and/or the fact many countries don't have policies that put them on track to meet them - we will not limit global temperature increase to well below 2 degrees Celsius, while pursuing efforts to limit the increase to 1.5 degrees.
 
 Some news reports that have covered this issue include:
 - Middle East Institute: *[COP27: A time to address the “triple inequality”](https://www.mei.edu/publications/cop27-time-address-triple-inequality)* - "the latest U.N. Environment Program (UNEP) Emissions Gap Report shows that updated national climate pledges would reduce projected 2030 emissions by only 7.5% as compared with previous unconditional NDCs, whereas a 30% reduction is needed to limit warming to 2°C, and 55% is required to meet the Paris Agreement goal of limiting warming to 1.5°C"
